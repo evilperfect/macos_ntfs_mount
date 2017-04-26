@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp mount.sh /usr/local/bin/ntfsmount
-cp unmount.sh /usr/local/bin/ntfsunmount
+sudo cp mount.sh /usr/local/sbin/ntfsmount
+sudo cp unmount.sh /usr/local/sbin/ntfsunmount
